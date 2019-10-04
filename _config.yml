@@ -111,8 +111,7 @@ analytics:
 author:
   name             : "Scareltt O'Hara"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Koo MinJae
-  Hankuk University of Foreign Studies Department of Economics"
+  bio              : "Koo MinJae &#10; Hankuk University of Foreign Studies Department of Economics"
   #location         : "Somewhere"
   email            :
   links:
